@@ -2,6 +2,6 @@
 void main()
 {
   printf("hello.fycs");
-  printf("Tuba.c")
+  
 }
    
